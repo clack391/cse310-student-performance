@@ -20,8 +20,6 @@ improve. I picked this dataset specifically because "how do students learn"
 is the problem I am already trying to solve elsewhere, so I wanted a second,
 independent source of evidence before trusting my own assumptions about it.
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Data Analysis Results
 
 **Question 1: Does more weekly study time actually raise a student's final grade,
